@@ -1,5 +1,5 @@
-<div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" />
+<div align="center">
+<h1>Hello World! 👋🏽🌎</h1>
 <img src="https://komarev.com/ghpvc/?username=bv-Velasco&style=flat-square&color=blue" alt=""/>
 </div>  
   
